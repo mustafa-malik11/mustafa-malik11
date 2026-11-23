@@ -1,77 +1,67 @@
-<div align="center">
+# 👋 Hi, I'm Ghulam Mustafa Malik
 
-# 👋 Hello! I'm Ghulam Mustafa
+I'm a Computer Science student at **Sukkur IBA University**, interested in software development, cybersecurity, and emerging technologies. I enjoy learning new technologies, building projects, and exploring how computer systems work.
 
-Welcome to my GitHub profile! I am a passionate Computer Science student at Sukkur IBA University, dedicated to building a strong foundation in software development and cybersecurity.
+## 👨‍💻 About Me
 
-</div>
+- 🎓 Bachelor of Computer Science (BSCS) student at Sukkur IBA University
+- 🔐 Interested in Ethical Hacking, Cybersecurity, and Network Security
+- 💻 Learning Software Development, Web Development, and AI/ML
+- 🚀 Exploring Vulnerability Assessment and Web Security
+- 🌱 Always learning and improving my technical skills
 
-### 👨‍💻 About Me:
-* 🎓 **Education:** Bachelor of Computer Science (BSCS) student at Sukkur IBA University.
-* 🛡️ **Primary Goal:** To become a skilled **Ethical Hacker** and contribute to a safer digital world.
-* 💻 **Interest:** Passionate about Network Security, Vulnerability Assessment, and Web Security.
-* 🚀 **Mindset:** Always exploring how systems work—and how to secure them. Learning something new every day!
+## 🛠️ Technologies & Tools
 
-### 🛠 Tech Stack & Expertise
-
-🚀 **Development & Languages**
+### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,c,cpp,java,py" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
-🌐 **Web & Design**
+### Web Development & Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,canva" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,flutter" />
 </p>
 
-🗄️ **Database & AI**
+### Databases & AI/ML
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,tensorflow" />
 </p>
 
-🔒 **Cybersecurity Focus**
+### Cybersecurity & Operating Systems
 <p>
   <img src="https://skillicons.dev/icons?i=linux,kali" />
 </p>
 
-⚙️ **Tools & Platforms**
+### Development Tools
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
 </p>
 
-### 📫 Let's Connect
+## 📫 Connect With Me
 
-<p align="left">
-  <a href="www.linkedin.com/in/ghulam-mustafa-malik-2595a8399" target="_blank">
+<p>
+  <a href="https://www.linkedin.com/in/ghulam-mustafa-malik-2595a8399">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/mustafa-malik11" target="_blank">
+  <a href="https://github.com/mustafa-malik11">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:	
-gmalikkm8@gmail.com">
+  <a href="mailto:gmalikkm8@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
+### 💡 Always Learning, Always Building
 
----
+*Every line of code is a step toward a bigger dream. Let's turn ideas into reality and build something meaningful.*
 
-<div align="center">
+> "With great power comes great responsibility."
 
-### Thank You for Visiting!
+### 🐍 GitHub Contribution Snake
 
-*Every line of code is a step toward a bigger dream. Let’s turn ideas into reality—let’s build something amazing together.*
-
-*“With great power comes great responsibility.”*
-</div>
-
-
----
-### 🐍 GitHub Snake (for fun)
-![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mustafa-malik11&style=flat-square&color=blue" alt="Profile Views" />
